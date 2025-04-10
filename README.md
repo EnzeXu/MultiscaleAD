@@ -13,7 +13,9 @@ This document is used to show a detailed description of the MultiscaleAD project
 ## Catalogue
 * [Start](#start)
 * [Run Figure2](#run-figure2)
+* [Citation](#citation)
 * [Contact](#contact)
+* [License](#license)
 
 
 
@@ -45,7 +47,32 @@ Exit virtual environment
 # Figure are saved to figure/20250410_101924_466084/
 ```
 
+## Citation
 
+If you use MultiscaleAD in your research, please cite our XXXX 'XX paper. 
+
+```bibtex
+@inproceedings{XXXXX, 
+    author = {XXXXX}, 
+    title = {XXXXX}, 
+    year = {2025}, 
+    isbn = {XXXXX}, 
+    publisher = {XXXXX}, 
+    address = {New York, NY, USA}, 
+    url = {XXXXX}, 
+    doi = {10.XXXX/XXXXX}, 
+    booktitle = {XXXXX}, 
+    pages = {XXX-XXX}, 
+    numpages = {XX}, 
+    keywords = {XXX}, 
+    location = {XXX, XXX}, 
+    series = {XXXX 'XX} 
+}
+```
 
 ## Contact
 If you have any questions, suggestions, or improvements, please get in touch with chenm@wfu.edu
+
+## License
+
+MIT © Project MultiscaleAD Developers.
