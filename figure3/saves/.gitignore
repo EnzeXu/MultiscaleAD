@@ -1,0 +1,8 @@
+*
+!.gitignore
+!params_default_33.npy
+!params_default_46.npy
+!params_default_57.npy
+!params_A2*
+!params_20230113_102137_344977.npy
+!params_20230314_185400_648329*
