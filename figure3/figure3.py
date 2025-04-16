@@ -153,7 +153,8 @@ if __name__ == "__main__":
 
     plt.xticks([])
     plt.yticks([])
-    plt.show()
+    plt.savefig('figure/Abnormality/Abnormality_A.png')
+    plt.close()
 
     # draw only tau lines graph
     tau_biomarkers = ['PET Tau', 'CSF p-Tau']
@@ -183,7 +184,7 @@ if __name__ == "__main__":
 
     plt.xticks([])
     plt.yticks([])
-    plt.show()
+    plt.savefig('figure/Abnormality/Abnormality_T.png')
 
 
 
