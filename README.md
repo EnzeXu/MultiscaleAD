@@ -92,7 +92,7 @@ python figure4.py
    via [Paraview](#3-visualization-tools). Hint: the command line word document is inside the folder
    respectively. 
    
-   The color file is stored inside the `screen_shot` file if you need.
+   The color file is stored inside the `figure4` file if you need.
 
 ###  Figure 5 – FDG, Amyloid, and Tau Dynamics
 
